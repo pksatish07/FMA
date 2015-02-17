@@ -1,0 +1,8 @@
+F:\Android\FMA\app\build\intermediates\classes\debug
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-8cea7b26a7c9dd36091746ad11c3dc41d3ce94bc.jar
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.3-e62c0547a9c7d6b652176767fe8c2ca4eb9a6a3d.jar
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-829eb40f03dd354aa865d1d3478a54b923584780.jar
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\classes-3ba2dd9812561f8c09ae71a9997eb8acb3c99fb4.jar
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\Parse-1.7.1-0a16251e38dbbb7858aa3580c3649c4b87dbd04b.jar
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\classes-41053082d99129c369a0c54d79718fe27da49a1f.jar
+F:\Android\FMA\app\build\intermediates\pre-dexed\debug\classes-6f52ed5e90dfd9e79ea22cc130079106b736128b.jar

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\FMA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\classes-3ba2dd9812561f8c09ae71a9997eb8acb3c99fb4.jar" />
+    </item>
+    <item
+        jar="F:\Android\FMA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\classes-41053082d99129c369a0c54d79718fe27da49a1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\SatishPK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-8cea7b26a7c9dd36091746ad11c3dc41d3ce94bc.jar" />
+    </item>
+    <item
+        jar="F:\Android\FMA\app\libs\bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.3-e62c0547a9c7d6b652176767fe8c2ca4eb9a6a3d.jar" />
+    </item>
+    <item
+        jar="F:\Android\FMA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\classes-6f52ed5e90dfd9e79ea22cc130079106b736128b.jar" />
+    </item>
+    <item
+        jar="F:\Android\FMA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-829eb40f03dd354aa865d1d3478a54b923584780.jar" />
+    </item>
+    <item
+        jar="F:\Android\FMA\app\libs\Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528">
+        <dex dex="F:\Android\FMA\app\build\intermediates\pre-dexed\debug\Parse-1.7.1-0a16251e38dbbb7858aa3580c3649c4b87dbd04b.jar" />
+    </item>
+
+</items>
